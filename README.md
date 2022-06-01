@@ -2,7 +2,7 @@
 
 # How to use
 
-main.py
+example.py
 ```py
 import JAN
 
