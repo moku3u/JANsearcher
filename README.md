@@ -1,6 +1,6 @@
 # JANsearcher / barcode search
 
-# How to use
+## How to use
 
 example.py
 ```py
